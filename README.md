@@ -1,4 +1,5 @@
 # Scizers-Assignment-Internship
+## Objective : The design for a landing page of a real estate project in Dubai. 
 
  ## Installation
 1. Clone the repository:
@@ -14,21 +15,8 @@
       npm run dev
     ```
 
- ## Demo Link : https://scizerr-assignment-damac.vercel.app/
 
-  ## Demo Video
-1. Desktop View
-    
-
-https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/6d38947d-b072-4260-a191-5bfe3221f579
-
-
-
-3. Mobile View
-   
-
-
- ## ScreenShots
+ ## ScreenShots of app
 
  1. Desktop
   ![image](https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/f51ec4cb-02fa-4f14-9724-0c8a38d61386)
@@ -48,6 +36,21 @@ https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/6d38947d
 ![image](https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/b110096e-46d4-4872-8d5f-dd5d9c3bac4e)
 
 
+ ## Demo Link : https://scizerr-assignment-damac.vercel.app/
+
+  ## Demo Video
+1. Desktop View
+    
+
+https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/6d38947d-b072-4260-a191-5bfe3221f579
+
+
+
+3. Mobile View
+   
+
+
+https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/8888d35d-77d1-4d72-8c8a-bef41e9fc613
 
 
 
