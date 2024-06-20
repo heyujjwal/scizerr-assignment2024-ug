@@ -14,12 +14,12 @@
       npm run dev
     ```
 
- ## Demo Link
- 
+ ## Demo Link : https://scizerr-assignment-damac.vercel.app/
 
   ## Demo Video
 1. Desktop View
-   
+   ![image](https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/37056a1d-c0ca-43e2-996c-99cfcea83529)
+
 
 
 3. Mobile View
