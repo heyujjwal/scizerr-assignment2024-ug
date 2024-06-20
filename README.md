@@ -15,6 +15,8 @@
       npm run dev
     ```
 
+ ## Demo Link : https://scizerr-assignment-damac.vercel.app/
+
 
  ## ScreenShots of app
 
@@ -22,7 +24,6 @@
   ![image](https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/f51ec4cb-02fa-4f14-9724-0c8a38d61386)
 
   ![image](https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/b8c6857e-4755-4506-9165-5f6d1f00a746)
-
 
   ![image](https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/2b1c043d-bcaa-461c-965c-998419077990)
 
@@ -36,7 +37,7 @@
 ![image](https://github.com/heyujjwal/scizerr-assignment2024-ug/assets/107796383/b110096e-46d4-4872-8d5f-dd5d9c3bac4e)
 
 
- ## Demo Link : https://scizerr-assignment-damac.vercel.app/
+
 
   ## Demo Video
 1. Desktop View
